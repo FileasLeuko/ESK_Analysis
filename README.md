@@ -1,5 +1,4 @@
-# ESK_Analysis
-Panel Data for Analysis
+# ESK Analysis
+This project features user generated panel data from the interactive Energy Savings Account (i.e. the "Energiesparkonto"), promoted and developed by co2online gGmbH.
 
-too bad it is so complicated to just push some changes onto GitHub
 
