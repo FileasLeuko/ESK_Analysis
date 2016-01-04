@@ -1,5 +1,5 @@
 #############################################
-# MASTER FILE for the preparation of the ANALYSIS
+# Generate data for the ANALYSIS
 #############################################
 
 # Stand: 4.1.2016
