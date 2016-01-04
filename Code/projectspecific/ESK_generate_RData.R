@@ -7,8 +7,10 @@
 
 source("Code/universal/R_pkgs.R")
 
-ESK_panel <- read_csv2("Data/Raw/esk_daten_20151222.csv")
-
+ESK_panel_readr <- read_csv2("Data/Raw/esk_daten_20151222.csv")
+str(ESK_panel_readr)
+ESK_panel_base <- read.csv2("Data/Raw/esk_daten_20151222.csv")
+str(ESK_panel_base)
 
 #ESK_dateDownloaded <- date()
 ESK_dateDownloaded <- "Sun Jan  3 15:59:19 2016"
