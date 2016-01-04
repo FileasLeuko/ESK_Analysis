@@ -14,6 +14,3 @@ dir.create("Reports")
 dir.create("Data/Raw")
 dir.create("Data/Processed")
 
-
-#file.create("ESK_Master.R")
-
